@@ -1,14 +1,12 @@
 {
-  "name": "grimhollowwp",
-  "title": "Grim Hollow Weapon Properties",
-  "description": "Adds Grim Hollows new weapon properties",
-  "version": "0.2",
-  "author": "Draggo",
+  "name": "HeavyarmsGunslingerWP",
+  "title": "Heavyarms Gunslinger Weapon Properties",
+  "description": "Adds Heavyarms Gunslinger new weapon properties",
+  "version": "0.1",
+  "author": "DrunkenYoda",
   "systems": ["dnd5e"],
   "styles": [],
   "scripts": ["grimhollowwp.js"],
-  "manifest": "https://raw.githubusercontent.com/TheDraggo/GrimHollowWeaponProperties/main/module.json",
-  "download": "https://github.com/TheDraggo/GrimHollowWeaponProperties/archive/main.zip",
-  "minimumCoreVersion": "0.7.0",
-  "compatibleCoreVersion": "0.7.9"
+  "manifest": "https://raw.githubusercontent.com/DrunkenYoda/WeaponProperties/main/module.json",
+  "download": "https://github.com/DrunkenYoda/WeaponProperties/archive/main.zip"
 }
