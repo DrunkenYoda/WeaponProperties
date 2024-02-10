@@ -6,7 +6,7 @@
   "author": "DrunkenYoda",
   "systems": ["dnd5e"],
   "styles": [],
-  "scripts": ["grimhollowwp.js"],
+  "scripts": ["heavyarmsgs.js"],
   "manifest": "https://raw.githubusercontent.com/DrunkenYoda/WeaponProperties/main/module.json",
   "download": "https://github.com/DrunkenYoda/WeaponProperties/archive/main.zip"
 }
